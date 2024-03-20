@@ -21,10 +21,10 @@
 title: Vrindavan Sanap
 email: vrindavansanap@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I post things I find intresting about AI/tech/software here:), Mostly to sort my brain out
+  I post things I find intresting about software here:), Mostly to sort my brain out
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "vrindavansanap.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Vrndvn1 
 github_username:  VrindavanSanap 
 
