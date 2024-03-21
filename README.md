@@ -1,3 +1,3 @@
-# my-blog
-# my-blog
+# Blog
+# Blog
 https://vrindavansanap.github.io/blog/
