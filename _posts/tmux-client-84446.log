@@ -306,3 +306,7 @@
 1718630939.910120 sending message 208 to peer 0x148048000 (0 bytes)
 1718630939.951277 client_signal: Window size changes: 28
 1718630939.951299 sending message 208 to peer 0x148048000 (0 bytes)
+1718646205.077376 client_signal: Hangup: 1
+1718646205.077636 sending message 205 to peer 0x148048000 (0 bytes)
+1718646205.080850 peer 0x148048000 message 204
+1718646205.080932 client loop exit
