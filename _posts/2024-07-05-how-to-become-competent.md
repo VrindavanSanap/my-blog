@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Become Competent"
-date:   2024-07-04 15:01:32 +0000
+date:   2024-07-05 15:01:32 +0000
 categories: Skill 
 ---
 
