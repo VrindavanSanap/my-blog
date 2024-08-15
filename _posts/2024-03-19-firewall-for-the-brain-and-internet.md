@@ -27,4 +27,4 @@ Internet advertising is a mind-bogglingly huge market because of the way it's st
 - Snapchat had $300 million down the hole in losses
 - Snapchat had 400 million daily active users
 
-Combined this companies made close to 100 billion in revene from advertising in a single quater yes billion with a B and quater with a q.
+..to be continued
