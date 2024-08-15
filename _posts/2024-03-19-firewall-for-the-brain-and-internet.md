@@ -4,27 +4,27 @@ title: "Firewall for the Brain and Internet"
 date: 2024-07-29
 ---
 
-There is too much information on the internet, most of which is total trash. The signal-to-noise ratio is abysmal. The average website that most common people visit has upwards of 25-30 trackers by ad sites, most likely doubleclick.net. How crazy is it that domains like doubleclick.net and googlesyndication.com are literally in the top 100 domains queried by people?
+The internet is plagued by an overwhelming amount of information, with a staggering majority being irrelevant or misleading. The signal-to-noise ratio is alarmingly low. A typical website visited by the average user is infested with around 25-30 trackers from advertising sites, with doubleclick.net being a prime culprit. It's astonishing that domains like doubleclick.net and googlesyndication.com consistently rank among the top 100 most queried domains.
 
-I personally use the Orion browser, which blocks all these by default. I would highly recommend it.
+Personally, I use the Orion browser, which effectively blocks these trackers by default. I highly recommend it to anyone seeking a cleaner browsing experience.
 
-Internet advertising is a mind-bogglingly huge market because of the way it's structured, and currently, only two companies own most of it. I like to call the advertising market the attention market. Most people severely underestimate how huge this is monetarily. To get an idea, let's look at the income statements of the biggest ad companies in the world:
+The internet advertising market is a behemoth, largely dominated by two major players. I refer to this market as the attention market, as it revolves around capturing users' attention. The monetary scale of this market is grossly underestimated by most. To put this into perspective, let's examine the quarterly income statements of the world's largest advertising companies:
 
 **Google Q1 2024 ($2.1 trillion market cap)**
-- Google made roughly $62 billion in revenue through ads in a single quarter.
-  - $46 billion through search
-  - $8 billion through YouTube
-  - $7 billion through Google Search Network
-- leading to $28 billion in profit from advertising alone.
+- Google generated approximately $62 billion in ad revenue in a single quarter.
+  - $46 billion from search
+  - $8 billion from YouTube
+  - $7 billion from Google Search Network
+- resulting in a profit of $28 billion solely from advertising.
 
 **Meta Q1 2024 ($1.2 trillion market cap)**
-- Meta made $36 billion in revenue through advertising
-- Meta made $12 billion in profit through advertising
-- Meta had close to 3 billion daily active users
+- Meta earned $36 billion in ad revenue
+- Meta profited $12 billion from advertising
+- Meta boasted nearly 3 billion daily active users
 
 **Snapchat Q1 2024 ($21 billion market cap)**
-- Snapchat made $1.2 billion in revenue
-- Snapchat had $300 million down the hole in losses
+- Snapchat generated $1.2 billion in revenue
+- Snapchat suffered a loss of $300 million
 - Snapchat had 400 million daily active users
 
 ..to be continued

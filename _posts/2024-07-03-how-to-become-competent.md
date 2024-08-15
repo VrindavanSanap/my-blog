@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "How to Become Competent"
+title:  "Unlocking Competence: The Power of Repetition"
 date:   2024-07-03 15:01:32 +0000
-categories: Skill 
+categories: Skill Development
 ---
 
-"How to get better at something? Do more of it." -George Hotz 
-
-
+"The path to mastery is paved with consistent effort. As George Hotz so aptly puts it, 'How to get better at something? Do more of it.'"
